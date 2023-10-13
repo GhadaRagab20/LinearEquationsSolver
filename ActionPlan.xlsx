@@ -1,0 +1,29 @@
+aciton	Status	Estimation(hr)	actual
+create design for project	Inprogress	2	2.5
+create coffition array	open	10	
+Implement get parameter for all Commands	open	8	
+implement Lv1_numVars	open	4	
+implement Lv1_equationi	open	4	
+implement Lv1_column	open	4	
+implement Lv2_add 	open	6	
+implement Lv2_subtract	open	6	
+implement Lv2_substitute	open	8	
+implement Lv3_D	open	8	
+implement Lv3_D x1	open	8	
+implement Lv3_DValue	open	8	
+implement Lv3_solve	open	8	
+UnitTest	open	4	
+IntegrationTest	open	4	
+Write build batch file	open	4	
+total		96	
+			
+			
+			
+			
+			
+			
+			
+			
+Done			
+Inprogress			
+open			
